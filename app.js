@@ -1,6 +1,6 @@
 
     //Initial an array of movies aded
-    var movies = ["matrix", "avenger"];
+    var movies = [];
 
     //display movie information
     function showMovieInfo() {
