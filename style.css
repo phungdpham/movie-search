@@ -12,14 +12,18 @@
 
 button {
     margin-right: 10px;
-    background-color: #FFC300;
-    border: solid 1px;
+    background-color: white;
+    border: none;
     padding: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     border-radius: 12px;
+}
+
+button:hover {
+    background-color: #D35400
 }
 
 #movie-form {
